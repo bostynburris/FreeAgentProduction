@@ -1,0 +1,13 @@
+---
+title: "ReadMe.md"
+author: "Bostyn Burris"
+date: "2025-09-08"
+output: html_document
+---
+## ReadMe
+
+Repository for my Major League Baseball free agent output predictor. This started as a solo final project for one of my graduate classes that I really enjoyed and wanted to extend on my own for fun and practice. The data retrieved was by using the "baseballr" package to scrape player data off baseballreference.com.
+
+I am planning to create some other models for other uses in Major League baseball and then come back to this model and make a more accurate model on more informative statistics. This model is more specifically trained for hitters since the only statistic used for pitchers is earned run average, so there will be more advanced programs for both pitchers and hitters.
+
+For whomever is reading this and looking through my code, I would love some feedback for how I can develop this code further and if there is any recommendations for future models I create. Thank you for taking the time to look through this and I hope you think it is interesting!
